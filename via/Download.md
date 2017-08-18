@@ -10,7 +10,7 @@ via浏览器电脑版
 
 经历了这么久，只做了个这样没啥用的东西（只控制了主程序的大小），很失望（界面还丑）。。
 
-你们就随便用下吧。。
+你们来打我吧。。
 
 [点我下载！](https://guanghou-my.sharepoint.com/personal/dmlgzs_edu_get365_pw/_layouts/15/guestaccess.aspx?docid=059f04a3e211f4629bbdd50df4db64b03&authkey=AZfHRGtjCYNPkiarRtK1D1c)
 
