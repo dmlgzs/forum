@@ -14,6 +14,6 @@ via浏览器电脑版
 
 [点我下载！](https://guanghou-my.sharepoint.com/personal/dmlgzs_edu_get365_pw/_layouts/15/guestaccess.aspx?docid=059f04a3e211f4629bbdd50df4db64b03&authkey=AZfHRGtjCYNPkiarRtK1D1c)
 
-欢迎反馈bug（https://github.com/dmlgzs/forum/issues/4）
+[欢迎反馈bug]（https://github.com/dmlgzs/forum/issues/4）
 
-如果支持我，就打开网址“https://github.com/dmlgzs/forum/blob/master/支持作者几种方法.md”吧
+如果支持我，就[点这里](https://github.com/dmlgzs/forum/blob/master/支持作者几种方法.md)
