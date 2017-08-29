@@ -24,9 +24,9 @@
 如果您喜欢本程序，那就请您支持我们，在菜单里面点“赞助作者”吧！
 
 
-[点我下载！](https://pan.baidu.com/s/1bDY8Ei)
+[点我下载！](https://pan.baidu.com/s/1bV9yRc)
 
-[备用下载](https://guanghou-my.sharepoint.com/personal/dmlgzs_edu_get365_pw/_layouts/15/guestaccess.aspx?docid=0aacaf36a1b0c466c993e541072c185b2&authkey=AYze5QI4qoTwggi9MEdxVlI)
+[备用下载](https://guanghou-my.sharepoint.com/personal/dmlgzs_edu_get365_pw/_layouts/15/guestaccess.aspx?docid=0b5292616e2f14abca3c88c949a0d5594&authkey=AQpYKGJ8ZweRP82AQTZ_qHI)
 
 [欢迎反馈bug](https://github.com/dmlgzs/forum/issues/4)
 
