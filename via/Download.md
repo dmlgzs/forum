@@ -32,7 +32,9 @@
 
 [点我下载！](https://pan.baidu.com/s/1dFgZsel)
 
-[备用下载](https://guanghou-my.sharepoint.com/personal/dmlgzs_edu_get365_pw/_layouts/15/guestaccess.aspx?docid=0ea1db3c843914164a3c4d8f75445441b&authkey=AZk3mJ8hXJwQ2uhsaJe9GzY)
+[备用下载1](https://pan.baidu.com/s/1jHSBZeQ)
+
+[备用下载2](https://guanghou-my.sharepoint.com/personal/dmlgzs_edu_get365_pw/_layouts/15/guestaccess.aspx?docid=0ea1db3c843914164a3c4d8f75445441b&authkey=AZk3mJ8hXJwQ2uhsaJe9GzY)
 
 [欢迎反馈bug](https://github.com/dmlgzs/forum/issues/4)
 
