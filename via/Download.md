@@ -1,43 +1,41 @@
 # via电脑版下载地址
 
-欢迎使用Via浏览器1.3beta2！
+欢迎使用Via浏览器1.3beta3！
 
-本版本相对1.3beta1修复了几个小bug，加入了新功能
+修复bug：
 
-修复的bug：
+①某些系统取消加入收藏夹后会提示加入失败
 
-①刷新按钮无法点击
+②某些系统中一个网页假死可导致浏览器全卡死
 
-②按D键会弹出添加收藏夹，N键会创建新窗口
-
-③取消加入收藏夹后会提示加入失败
-
-（垃圾输入法，浏览器里的公告暂时改不了）
 
 新功能：
 
-①禁止加载资源
+①终于更换内核啦！！！Chromium 62.0.3202.94！！最新内核！！
 
-②设置（不太完善，但可以修改主页）
+②设置增加修改UA
 
-③中文版“ chrome://version/ ”页面
+③阻止最近流行的挖矿网站js脚本
+
+④广告拦截
+
+⑤外部链接拦截
 
 
 等
 
-对于某些心急于云同步的用户，抱歉了，本版本暂时还不能同步。
+本版本暂时还不能同步， = = 真的对不起大家，很惭愧。
 
-如果您喜欢本程序，那就请您支持我们，在菜单里面点“赞助作者”吧！
 
-保留原有主页也是支持作者哦
+保留内置主页主页就是支持作者哦
 
-[点我下载！](https://pan.baidu.com/s/1dFgZsel)
-
-[备用下载1](https://pan.baidu.com/s/1jHSBZeQ)
-
-[备用下载2](https://guanghou-my.sharepoint.com/personal/dmlgzs_edu_get365_pw/_layouts/15/guestaccess.aspx?docid=0ea1db3c843914164a3c4d8f75445441b&authkey=AZk3mJ8hXJwQ2uhsaJe9GzY)
+[点我下载！](https://pan.baidu.com/s/1mioXieG)
 
 [欢迎反馈bug](https://github.com/dmlgzs/forum/issues/4)
+
+电脑版QQ群：684069867
+
+手机版QQ群：233258677
 
 如果支持我，就[点这里](https://github.com/dmlgzs/forum/blob/master/支持作者几种方法.md)
 
