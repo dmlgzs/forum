@@ -31,7 +31,7 @@
 
 保留内置主页主页就是支持作者哦
 
-[点我下载！](https://pan.baidu.com/s/1mioXieG)
+[点我下载！](https://pan.baidu.com/s/1bpfgmrd)
 
 [欢迎反馈bug](https://github.com/dmlgzs/forum/issues/4)
 
