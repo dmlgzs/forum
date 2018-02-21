@@ -27,7 +27,7 @@
 
 ##win7及以上：
 
-[下载地址1](https://u11269684.pipipan.com/fs/11269684-238789455)
+[下载地址1](https://u11269684.pipipan.com/fs/11269684-238791816)
 
 [下载地址2](https://pan.baidu.com/s/1eT7QNLo)
 
@@ -35,7 +35,7 @@
 
 [下载地址1](https://u11269684.pipipan.com/fs/11269684-238789509)
 
-[下载地址2](https://pan.baidu.com/s/1nwDIlkP)
+[下载地址2](https://pan.baidu.com/s/1brlm8Jt)
 
 ##反馈
 
