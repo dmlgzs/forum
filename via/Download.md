@@ -33,7 +33,7 @@
 
 ##win7以下：
 
-[下载地址1](https://u11269684.pipipan.com/fs/11269684-238789509)
+[下载地址1](https://u11269684.pipipan.com/fs/11269684-238791948)
 
 [下载地址2](https://pan.baidu.com/s/1brlm8Jt)
 
