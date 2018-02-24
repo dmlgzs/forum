@@ -27,13 +27,13 @@
 
 ##win7及以上：
 
-[下载地址1](https://u11269684.pipipan.com/fs/11269684-238791816)
+[下载地址1](https://u11269684.pipipan.com/fs/11269684-238791816)（推荐）
 
 [下载地址2](https://pan.baidu.com/s/1eUargdW)
 
 ##win7以下：
 
-[下载地址1](https://u11269684.pipipan.com/fs/11269684-238791948)
+[下载地址1](https://u11269684.pipipan.com/fs/11269684-238791948)（推荐）
 
 [下载地址2](https://pan.baidu.com/s/1brlm8Jt)
 
