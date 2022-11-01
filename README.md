@@ -1,3 +1,5 @@
+# ARCHIVED
+此仓库为历史遗留，现已存档
 # 迪莫乐工作室官方论坛
 [论坛帖子页面请点这里进入](https://github.com/dmlgzs/forum/issues)，或者点击左上方的Issues进入。
 你可以在右上角“sign up” 注册账号。 通过邮件验证后，请点击 https://github.com/dmlgzs/forum/issues 回到论坛。
